@@ -1,3 +1,6 @@
+# The Matrix Generation Utilities for TSM
+# Ramón Vila Ferreres - 2018
+
 import random
 
 def genranmatr(alto, ancho):
