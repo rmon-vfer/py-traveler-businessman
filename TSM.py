@@ -1,9 +1,5 @@
 import matgenut, pprint, time
 
-"""
-Suponer que SIEMPRE se empieza conociendo la posición de A
-"""
-
 m = matgenut.genranmatr(5,5)
 posB = matgenut.instcities(m)
 matgenut.printmtrx(m)
